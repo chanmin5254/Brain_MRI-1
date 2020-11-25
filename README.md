@@ -8,10 +8,10 @@ Kaggle brain MRI 데이터 셋
 
 # Model
 UNet 기반으로 인풋 아우풋 사이즈가 동일한 크기로 하여 인풋 영상에 대한 segmentation map 출력
+
+# Result
 ![그림1](https://user-images.githubusercontent.com/34363323/100235159-5fcbd000-2f6f-11eb-8231-b37006ddf8c1.png)
 ![그림2](https://user-images.githubusercontent.com/34363323/100235173-622e2a00-2f6f-11eb-9594-a17af47e18f0.png)
-# Result
-
 
 # Reference
 <a href="https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation "> Data </a> </br>
